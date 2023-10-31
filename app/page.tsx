@@ -1,9 +1,10 @@
-import Navbar from "@/components/Navbar";
+import {Button, ButtonGroup} from '@chakra-ui/react'
 
 export default function Home() {
     return (
         <div>
-            <Navbar />
+            <Button colorScheme="red">Hello</Button>
         </div>
+
     )
 }
