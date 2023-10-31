@@ -1,7 +1,7 @@
 const Tests = () => {
     return (
         <div>
-            <h1>For testing purposes only</h1>
+            <h1>TESTING ONLY</h1>
         </div>
     )
 }
